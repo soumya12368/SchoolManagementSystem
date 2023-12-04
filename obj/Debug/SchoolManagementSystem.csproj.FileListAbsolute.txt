@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
